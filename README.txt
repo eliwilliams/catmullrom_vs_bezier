@@ -1,4 +1,4 @@
-This project is a comparison of two methods of spline construction: the Catmull-Rom and Bezier interpolations. It was the (rough) visual demonstration of the theories of my CS344 (Computer Graphics) final project.
+This project is a comparison of two methods of spline construction: the Catmull-Rom and Bezier interpolations. It was the rough visual demonstration of the theory behind my final project for CS344 (Computer Graphics) at Duke. It is written in Java and uses JOGL, a binding for the OpenGL API.
 
 
 
